@@ -12,7 +12,7 @@
     <!-- Device -->
     <project path="device/itel/P13001L-kernel" name="android_device_itel_P13001L-kernel" remote="ardiandideyashidiq" revision="lineage-23.2" />
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="MillenniumOSS" revision="sixteen-qpr2-rebase" />
-    <project path="device/itel/P13001L" name="android_device_itel_P13001L" remote="ardiandideyashidiq" revision="lineage-23.2" />
+    <project path="device/itel/P13001L" name="android_device_itel_P13001L" remote="ardiandideyashidiq" revision="infinity-bp4a" />
 
     <!-- Device - Common -->
     <project path="device/gki/common-kernel" name="android_device_gki_common-kernel" remote="ardiandideyashidiq" revision="lineage-23.2" />
